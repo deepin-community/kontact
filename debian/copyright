@@ -1,0 +1,154 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: kontact
+Upstream-Contact: kde-devel@kde.org
+Source: https://invent.kde.org/pim/kontact
+
+Files: *
+Copyright: 2003-2014, A Kontact szerzői
+           2004-2010, Allen Winter
+           2003-2014, Autori Kontact
+           2003-2010, Autorii Kontact
+           2003-2014, Autorzy Kontact
+           2000-2005, Cornelius Schumacher <schumacher@kde.org>
+           2002-2005, Daniel Molkentin <molkentin@kde.org>
+           2004-2005, Das KDE-PIM-Team
+           2003-2014, De auteurs van Kontact
+           1951, Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA
+           1989-2016, Free Software Foundation, Inc
+           2005, KDE Russian translation team
+           2001-2018, Kontact authors
+           2001-2013, Kontact autori
+           2003-2010, Kontact autoriai
+           2003-2014, Kontact yazarları
+           2003-2013, Kontact авторлары
+           2003-2014, Kontact 作者群
+           2003-2014, Kontact-Autoren
+           2003-2014, Kontact-udviklerne
+           2003-2014, Kontact-upphovsmännen
+           2003-2014, Kontacti autorid
+           2003-2014, Kontactin tekijät
+           2003-2014, Les auteurs de Kontact
+           2001, Matthias Hoelzer-Kluepfel <mhk@kde.org>
+           2012-2018, Montel Laurent <montel@kde.org>
+           2006-2008, Oral Timocin
+           2006-2008, Oral Timocin,.
+           2003-2014, Os autores do Kontact
+           1998-1999, Preston Brown <pbrown@kde.org>
+           2008, Rafael Fernández López <ereslibre@kde.org>
+           2003-2018, This_file_is_part_of_KDE
+           2003-2010, Tobias Koenig
+           2003-2004, Tobias Koenig,.
+           2003-2004, Tobias König
+           2003-2014, autores de Kontact
+           2003-2014, de Schrieverslüüd vun Kontact
+           2001-2010, die Kontact Entwickler
+           2003, die Kontact-Entwickler
+           2003-2014, els autors del Kontact
+           2003-2014, gli autori di Kontact
+           2003-2010, les oteurs di Kontact
+           2003-2010, razvijalci Kontacta
+           2003-2014, οι συγγραφείς του Kontact
+           2003-2010, авторите на Kontact
+           2003-2014, مؤلفو Kontact
+           2004-2010, अलन विंटर
+           2005-2010, आलन विंटर
+           2003-2010, कॉन्टॅक्ट लेखक
+           2004, टोबिअस कोएनिग
+           2003, टोबिआस कोएनिग
+           2003-2004, टोबीआस कोएनिग
+           टोबीआस कोएनींग
+License: GPL-2+
+
+Files: doc/kontact/index.docbook
+       po/ca/docs/*
+       po/de/docs/*
+       po/es/docs/*
+       po/it/docs/*
+       po/nl/docs/*
+       po/pt/docs/*
+       po/pt_BR/docs/*
+       po/sv/docs/*
+       po/uk/*
+Copyright: 2004-2005, &kde;-utvecklarna</para>
+           2004-2005, </para>
+           2004-2005, A Equipa de Desenvolvimento do &kde;</para>
+           2004-2005, A Equipe de Desenvolvimento do &kde;</para>
+           2004-2005, Die &kde;-Entwickler</para>
+           2004-2005, The &kde; Developers</para>
+           2004-2005, de &kde;-ontwikkelaars</para>
+License: GFDL-1.2+
+
+Files: po/uk/kontact.po
+Copyright: 2004-2010, Allen Winter
+           2003-2014, Kontact authors
+           2013-2015, Laurent Montel <montel@kde.org>
+           2006-2008, Oral Timocin
+           2004-2018, This_file_is_part_of_KDE
+           2003-2010, Tobias Koenig
+License: LGPL-2.1+3+KDEeV
+
+Files: src/data/org.kde.kontact.appdata.xml
+Copyright: KDE e.V.
+License: CC0-1.0
+
+Files: debian/*
+Copyright: 2009, Sune Vuorela <debian@pusling.com>
+License: LGPL-2+
+
+License: CC0-1.0
+ This file is distributed under the license LGPL version 2.1 or
+ version 3 or later versions approved by the membership of KDE e.V.
+ .
+ The complete text of the GNU Lesser General Public License version 2.1
+ can be found in `/usr/share/common-licenses/LGPL-2.1'.
+ .
+ The complete text of the GNU Lesser General Public License version 3
+ can be found in `/usr/share/common-licenses/LGPL-3'.
+
+License: GFDL-1.2+
+ Permission is granted to copy, distribute and/or modify this document
+ under the terms of the GNU Free Documentation License, Version 1.2
+ or any later version published by the Free Software Foundation;
+ with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+ A copy of the license is included in the section entitled "GNU
+ Free Documentation License".
+ .
+ The complete text of the GNU Free Documentation License version 1.2
+ can be found in `/usr/share/common-licenses/GFDL-1.2'.
+
+License: GPL-2+
+ This package is free software; you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation; either version 2 of the License, or
+ (at your option) any later version.
+ .
+ This package is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+ .
+ The complete text of the GNU General Public License version 2
+ can be found in `/usr/share/common-licenses/GPL-2'.
+
+License: LGPL-2.1+3+KDEeV
+ This file is distributed under the license LGPL version 2.1 or
+ version 3 or later versions approved by the membership of KDE e.V.
+ .
+ The complete text of the GNU Lesser General Public License version 2.1
+ can be found in `/usr/share/common-licenses/LGPL-2.1', likewise,
+ the complete text of the GNU Lesser General Public License version 3
+ can be found in `/usr/share/common-licenses/LGPL-3'.
+
+License: LGPL-2+
+ This library is free software; you can redistribute it and/or
+ modify it under the terms of the GNU Lesser General Public
+ License as published by the Free Software Foundation; either
+ version 2 of the License, or (at your option) any later version.
+ .
+ This library is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ Lesser General Public License for more details.
+ .
+ The complete text of the GNU Lesser General Public License version 2
+ can be found in `/usr/share/common-licenses/LGPL-2'.

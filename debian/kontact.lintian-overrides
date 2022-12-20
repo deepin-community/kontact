@@ -1,0 +1,4 @@
+#the private library is only used by kontact, so no need to split the package.
+kontact: package-name-doesnt-match-sonames libkontactprivate5
+# private library
+kontact: no-symbols-control-file

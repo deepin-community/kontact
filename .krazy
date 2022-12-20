@@ -1,0 +1,2 @@
+EXTRA camelcase,defines,null,qenums,tipsandthis
+SKIP /tests/
